@@ -12,7 +12,7 @@
   <img align="center" alt="Ajna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ajna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Ajna-pic" height="150" style="border-radius:50px;" src="https://mcusercontent.com/b956dd365b6810db2e585cca3/images/d800a6d0-228c-a484-d275-f2ea65f1601f.png">
+  <img align="right" alt="Ajna-pic" height="150" style="border-radius:50px" src="https://mcusercontent.com/b956dd365b6810db2e585cca3/images/035c8094-5a4d-4467-9d52-f3035119be11.jpeg">
 </div>
   
   ##
